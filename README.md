@@ -1,9 +1,16 @@
 # Uber App Example
 
-![Uber Login.](https://i.sstatic.net/K2geH.png)
-![Uber Home.](/habilidades-equipamentos/src/assets/images/UberHome.jpeg)
-![Pick Me Up Login.](/habilidades-equipamentos/src/assets/images/PickMeUpLogin.jpeg)
-![Pick Me Up Home.](/habilidades-equipamentos/src/assets/images/PickMeUpHome.jpeg)
+<p align="center">
+  <img src="https://i.sstatic.net/K2geH.png" alt="Uber Login" width="300"/>
+  <img src="/habilidades-equipamentos/src/assets/images/UberHome.jpeg" alt="Uber Home" width="300"/>
+</p>
+
+# Pick Me Up
+
+<p align="center">
+  <img src="/habilidades-equipamentos/src/assets/images/PickMeUpLogin.jpeg" alt="Pick Me Up Login" width="300"/>
+  <img src="/habilidades-equipamentos/src/assets/images/PickMeUpHome.jpeg" alt="Pick Me Up Home" width="300"/>
+</p>
 
 
 # Welcome to your Expo app 👋
