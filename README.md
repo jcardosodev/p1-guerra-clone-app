@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://i.sstatic.net/K2geH.png" alt="Uber Login" width="300"/>
-  <img src="/habilidades-equipamentos/src/assets/images/UberHome.jpeg" alt="Uber Home" width="300"/>
+  <img src="/habilidades-equipamentos/src/assets/images/UberHome.jpeg" alt="Uber Home" width="300" height="1300" />
 </p>
 
 # Pick Me Up
