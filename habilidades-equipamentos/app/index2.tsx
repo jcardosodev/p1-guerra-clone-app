@@ -2,7 +2,7 @@ import { View, Text, TouchableOpacity, Image } from 'react-native';
 import { TextInput, Button } from 'react-native-paper';
 import { styles2 } from './styles2';
 
-const Index2: React.FC = () => {
+const Index2 = () => {
   return (
     <View style={styles2.container}>
       <Image
